@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Om Srivastava, also known as Ilikepizza2.
-I am a 2nd year Btech student at IIIT Lucknow and I am a passionate full stack web developer.
+I am a 3rd year Btech student at IIIT Lucknow and I am a passionate full stack web developer.
 I do a bit of freelancing and am also an open source contributer.
 
 Let us connect at
