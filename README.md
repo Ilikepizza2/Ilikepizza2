@@ -1,11 +1,34 @@
-# 👋 Hi, I’m Om Srivastava, also known as Ilikepizza2.
-I am a 3rd year Btech student at IIIT Lucknow and I am a passionate full stack web developer.
-I do a bit of freelancing and am also an open source contributer.
+<h1 align="center">Hi 👋, I'm Om Srivastava</h1>
+<h3 align="center">A passionate web developer, always looking to learn new things</h3>
 
-Let us connect at
-- [LinkedIn](https://www.linkedin.com/in/om-srivastava)
-- [Fiverr](https://www.fiverr.com/share/kA7GLo)
-- [GitHub](https://github.com/Ilikepizza2)
+I'm Om Srivastava (Ilikepizza2/OmieChan). I am a prefinal year student at IIIT Lucknow. I am an experienced web developer and have worked with clients from all over the world on 40+ projects. I have also done an intern at ANM-Labs, South Korea as an SDE remote intern. Nowadays, I'm looking into a bit of machine learning and deep learning. I am also a competitive programmer with rating of 1591 at Codeforces.
+<h3 align="left">Something about me:</h3>
+<p align="left">
+  <ul>
+    <li>
+      One of my npm package is published at <a href="https://www.npmjs.com/package/social-sentiment">NPM</a>    
+    </li>
+    <li>
+      One of my firefox extension is published at <a href="https://addons.mozilla.org/en-US/firefox/addon/the-social-collection/">Firefox Add-ons</a>    
+    </li>
+  </ul>  
+</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <ul>
+    <li>
+      We can connect at <a href="https://www.linkedin.com/in/om-srivastava">LinkedIn</a>
+    </li>
+    <li>
+      I also offer my services on <a href="https://www.fiverr.com/share/kA7GLo">Fiverr</a>
+    </li>
+    <li>
+      See my public work at <a href="https://github.com/Ilikepizza2">Github</a>    
+    </li>
+  </ul>  
+</p>
 
-I'm also available for freelance work, you can contact me on - officialomsr@gmail.com
+
+
+I'm also available for contract based work, you can contact me on - officialomsr@gmail.com
 
