@@ -6,7 +6,7 @@ I'm Om Srivastava (Ilikepizza2/OmieChan). I am a prefinal year student at IIIT L
 <p align="left">
   <ul>
     <li>
-      An alternative routing solution for react at <a href="https://www.npmjs.com/package/react-statesafe">NPM</a>    
+      An alternative routing solution for react at <a href="https://www.npmjs.com/package/react-savestate">NPM</a>    
     </li>
     <li>
       One of my firefox extension is published at <a href="https://addons.mozilla.org/en-US/firefox/addon/the-social-collection/">Firefox Add-ons</a>    
