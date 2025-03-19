@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om Srivastava</h1>
-<h3 align="center">A passionate web developer, always looking to learn new things</h3>
+<h3 align="center">A passionate software developer, always looking to learn new things</h3>
 
-I'm Om Srivastava (Ilikepizza2/OmieChan). I am a prefinal year student at IIIT Lucknow. I am an experienced web developer and have worked with clients from all over the world on 40+ projects. I have also done an intern at ANM-Labs, South Korea as an SDE remote intern. Nowadays, I'm looking into a bit of machine learning and deep learning. I am also a competitive programmer with rating of 1591 at Codeforces.
+I'm Om Srivastava (Ilikepizza2/OmieChan). I am a final year student at IIIT Lucknow. I am an experienced web/AI developer and have worked with clients from all over the world on 50+ projects. I am currently a security intern at Cisco. I have also done an intern at ANM-Labs, South Korea as an SDE remote intern. Nowadays, I'm looking into a bit of machine learning and deep learning. I am also a competitive programmer with rating of 1608 at Codeforces.
 <h3 align="left">Something about me:</h3>
 <p align="left">
   <ul>
